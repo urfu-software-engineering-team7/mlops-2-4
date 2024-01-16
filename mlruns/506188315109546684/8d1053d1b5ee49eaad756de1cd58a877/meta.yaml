@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/506188315109546684/8d1053d1b5ee49eaad756de1cd58a877/artifacts
+end_time: 1700490903490
+entry_point_name: ''
+experiment_id: '506188315109546684'
+lifecycle_stage: active
+run_id: 8d1053d1b5ee49eaad756de1cd58a877
+run_name: chill-toad-436
+run_uuid: 8d1053d1b5ee49eaad756de1cd58a877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700487701810
+status: 3
+tags: []
+user_id: jovyan

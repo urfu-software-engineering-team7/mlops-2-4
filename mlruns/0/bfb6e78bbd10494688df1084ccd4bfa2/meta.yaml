@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bfb6e78bbd10494688df1084ccd4bfa2/artifacts
+end_time: 1700039302800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfb6e78bbd10494688df1084ccd4bfa2
+run_name: tasteful-fox-589
+run_uuid: bfb6e78bbd10494688df1084ccd4bfa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700039302726
+status: 3
+tags: []
+user_id: an
